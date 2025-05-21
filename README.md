@@ -1,10 +1,8 @@
 <div align="center">
 
-![alt text](<Sistema de Control y Servicios.png>)
+🌐 SISTEMAS DE CONTROL Y SERVICIOS - Grupo N°1
 
-# Tecnicatura Superior en Telecomunicaciones
-
-## Sistemas de Control y Servicios
+[![SISTEMAS-DE-CONTROL-Y-SERVICIOS-111111.jpg](https://i.postimg.cc/T17YsBmj/SISTEMAS-DE-CONTROL-Y-SERVICIOS-111111.jpg)](https://postimg.cc/m19szXmh)
 
 ---
 
