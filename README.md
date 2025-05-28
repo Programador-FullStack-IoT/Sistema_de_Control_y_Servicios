@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🌐 SISTEMAS DE CONTROL Y SERVICIOS - Grupo N°1
+# 🌐 SISTEMAS DE CONTROL Y SERVICIOS - Grupo Plata
 
 [![SISTEMAS-DE-CONTROL-Y-SERVICIOS-111111.jpg](https://i.postimg.cc/T17YsBmj/SISTEMAS-DE-CONTROL-Y-SERVICIOS-111111.jpg)](https://postimg.cc/m19szXmh)
 
